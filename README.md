@@ -1,26 +1,94 @@
 ![logo](https://github.com/VaishnaviAlam/VaishnaviAlam/blob/main/gh%20banner.png.jpg)
+
 <h1 align="center">Hi 👋, I'm Vaishnavi Alam</h1>
-<h3 align="center">A Fresher passionate about starting a career in software development</h3>
+<h3 align="center">Aspiring Java Developer | Passionate about Building Java Web Applications</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&s">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-- 🔭 I’m currently Studying **Computer Science Engineering**
+## 👩‍💻 About Me
 
-- 🌱 I’m currently learning **Python and SQL**
+- 🎓 B.Tech Graduate in Computer Science Engineering (2026)
+- 💻 Aspiring **Java Developer**
+- 🌱 Currently learning **Spring Framework & Spring Boot**
+- 🚀 Skilled in developing Java Web Applications using **Servlets, JSP, JDBC, and PostgreSQL**
+- 📚 Strong understanding of **Core Java, OOP, Collections, Exception Handling, Multithreading, Java 8**
+- 🔍 Interested in Backend Development and Software Engineering
+- 📫 Reach me at **vaishnavisudha73@gmail.com**
 
-- 🚀🎨 I have a good foundation in **HTML & CSS**
+---
 
-- 💬 Talk to me about **💻 Web design – I love helping with it | 🌐 Anything tech-related**
+## 🌐 Connect with Me
 
-- 📫 How to reach me **vaishnavisudha73@gmail.com**
-
-- ⚡ Fun fact **I love experimenting with CSS animations 🎨**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaishnavi-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-alam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaishnavi-alam" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+
+</p>
+
+---
+
+## 🚀 Projects
+
+### 📚 Student Management System
+- Java
+- Servlets
+- JSP
+- JDBC
+- PostgreSQL
+- Apache Tomcat
+- Bootstrap
+
+Features:
+- Admin Login
+- Student Registration
+- View Students
+- Update Student
+- Delete Student
+
+---
+
+### 📊 PublicPulse
+Social Media Analysis Framework for Citizen Reactions to Government Actions
+
+**Tech Stack**
+- Python
+- FastAPI
+- Pandas
+- SQLAlchemy
+- SQLite
+
+---
+
+## 📚 Currently Learning
+
+- Spring Framework
+- Spring Boot
+- Hibernate
+- REST APIs
+- Maven
+
+---
+
+⭐ Thanks for visiting my profile!
